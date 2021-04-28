@@ -2,6 +2,7 @@ Record of operating time sync and async functions
 
 
 <@async_measure_time >
+***
 <async def main(): >
     <await asyncio.gather(tick(), tick(), tick()) >
    
